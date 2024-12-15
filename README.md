@@ -1,3 +1,7 @@
+# License
+
+This repository is proprietary and all rights are reserved. No usage, modification, or distribution is allowed without permission.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
